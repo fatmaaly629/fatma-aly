@@ -1,8 +1,9 @@
 # fatma-aly
 my personal repo
+
 <div align="center">
 	<br>
-		<img src="good-times.svg" width="400px">
+		<img src="images/good-times.svg" width="400px">
 	<br>
 </div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
