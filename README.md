@@ -9,7 +9,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a  href="https://https://github.com/fatmaaly629/fatma-aly" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a  href="https://www.linkedin.com/in/fatma-aly-89bb37111/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
@@ -26,7 +26,7 @@
   <br>
   📚 I’m currently learning how to build awsome projects with next js 
   <br>
-  💬 Ask me anything about from <a href="https://https://github.com/fatmaaly629/fatma-aly" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://www.linkedin.com/in/fatma-aly-89bb37111/" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: fatmaaly629@gmail.com">fatmaaly629@gmail.com</a>
 </p>
