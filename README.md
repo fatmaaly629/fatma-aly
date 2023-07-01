@@ -1,11 +1,11 @@
 # fatma-aly
 my personal repo
 
-<div align="center">
+ <--/<div align="center">
 	<br>
 		<img src="images/good-times.svg" width="400px">
 	<br>
-</div>
+</div> --/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <h1 align="center">
